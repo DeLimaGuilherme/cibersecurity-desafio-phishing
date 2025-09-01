@@ -23,8 +23,6 @@ Após isso acessar a página falsa pelo endereço IP e preencher o usuário e se
 
 <img width="953" height="646" alt="image" src="https://github.com/user-attachments/assets/995aa682-03a3-45f7-a7fe-3c4ca0788802" />
 
-E no kali linux
-
 Após isso, vamos acessar o kali e visualizar os dados clonados
 
 
